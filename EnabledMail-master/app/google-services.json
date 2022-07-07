@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75082838597",
+    "project_id": "enabledvoice-f666c",
+    "storage_bucket": "enabledvoice-f666c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75082838597:android:a6f1dee5ceca0144f2a92c",
+        "android_client_info": {
+          "package_name": "com.example.enabledmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75082838597-3cj7dkcjjsthn54imj8bc7e68qjmiu14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4uaohjdtlN7ffKB3H0PL0YOa_Q7acU5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75082838597-3cj7dkcjjsthn54imj8bc7e68qjmiu14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
